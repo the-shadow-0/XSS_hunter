@@ -38,8 +38,7 @@ A lightweight Python tool to scan for reflected XSS vulnerabilities with advance
   2. Install dependencies (see Requirements above).
   3. Ensure `chromedriver` is executable and in your PATH.
   4. (Optional) Start Tor:
-   ```bash
-    tor &
+
 ## 💻 Usage
     ./xss_hunter.py <target_url> [options]
     Option	Description	Default
