@@ -1,6 +1,9 @@
 # XSS Hunter
 
 A lightweight Python tool to scan for reflected XSS vulnerabilities with advanced evasive payloads and randomized desktop User-Agents.
+
+    ⚠️ Disclaimer: Use only on targets you own or have explicit permission to test.
+
 ## 🔎 Features
 
   Recursive crawling of target site (configurable depth)
@@ -71,4 +74,5 @@ This project is licensed under the MIT License. See LICENSE for details.
 
     ⚠️ Disclaimer: Use only on targets you own or have explicit permission to test.
 
+❤️ Made with love for the community by the-shadow-0
 
