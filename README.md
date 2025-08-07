@@ -74,5 +74,5 @@ This project is licensed under the MIT License. See LICENSE for details.
 
     ⚠️ Disclaimer: Use only on targets you own or have explicit permission to test.
 
-❤️ Made with love for the community by the-shadow-0
+                                                ❤️ Crafted with passion for the security community by the-shadow-0
 
